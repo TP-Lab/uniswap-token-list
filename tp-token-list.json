@@ -1123,19 +1123,19 @@
         },
         {
             "name": "BAS",
-            "address": "0xa7ed29b253d8b4e3109ce07c80fc570f81b63696",
+            "address": "0xa7ED29B253D8B4E3109ce07c80fc570f81B63696",
             "symbol": "BAS",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://eth-token.cdn.bcebos.com/0xa7ed29b253d8b4e3109ce07c80fc570f81b63696/logo.png"
+            "logoURI": "https://eth-token.cdn.bcebos.com/0xa7ED29B253D8B4E3109ce07c80fc570f81B63696/logo.png"
         },
         {
             "name": "BAC",
-            "address": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
+            "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
             "symbol": "BAC",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://eth-token.cdn.bcebos.com/0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a/logo.png"
+            "logoURI": "https://eth-token.cdn.bcebos.com/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a/logo.png"
         }
     ],
     "version": {
