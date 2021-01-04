@@ -1136,6 +1136,14 @@
             "decimals": 18,
             "chainId": 1,
             "logoURI": "https://eth-token.cdn.bcebos.com/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a/logo.png"
+        },
+        {
+            "name": "BAB",
+            "address": "0xC36824905dfF2eAAEE7EcC09fCC63abc0af5Abc5",
+            "symbol": "BAC",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://eth-token.cdn.bcebos.com/0xC36824905dfF2eAAEE7EcC09fCC63abc0af5Abc5/logo.png"
         }
     ],
     "version": {
